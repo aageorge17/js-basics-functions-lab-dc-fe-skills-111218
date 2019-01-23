@@ -1,5 +1,5 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(startingblock) {
-  return abs()
+  return abs(42-'startingblock')
   
 }
