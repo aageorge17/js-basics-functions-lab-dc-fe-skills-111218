@@ -1,4 +1,4 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(41) {
+function distanceFromHqInBlocks(block) {
   return (42-41);
 }
